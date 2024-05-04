@@ -1,0 +1,6 @@
+# vs code configs folder
+.vscode/
+
+
+# bun unecessary folders
+node_modules/
