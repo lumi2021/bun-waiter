@@ -1,6 +1,6 @@
 *WARNING:*
 This project is still under development.
-If you found some bug, pls report it on (issues tab)[/issues/].
+If you found some bug, pls report it on [issues tab](https://github.com/lumi2021/bun-waiter/issues).
 (project development started in 05/04/24)
 
 # BUN WAITER
@@ -15,7 +15,7 @@ bun waiter features includes:
 - Websockets;
 - (more in the future)
 
-Requqeriments:
+Requeriments:
 - 🧄 [Bun](https://bun.sh);
 - 💖 Love
 
